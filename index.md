@@ -5,3 +5,4 @@
 ##### head 5
 ###### head 6
 normal text
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
